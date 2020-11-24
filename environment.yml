@@ -1,0 +1,9 @@
+name: test-repo
+
+channels:
+  - conda-forge
+
+dependencies:
+  - pip == 20.1.1
+  - python = 3.7.2
+  - setuptools == 47.1.1
